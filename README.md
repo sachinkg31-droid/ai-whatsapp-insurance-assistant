@@ -1,4 +1,4 @@
-# ai-whatsapp-insurance-assistant# AI WhatsApp Insurance Assistant 🤖📲
+# AI WhatsApp Insurance Assistant 🤖📲
 
 This project is an AI-powered assistant designed to help insurance advisors automate customer communication on WhatsApp.
 
